@@ -1,0 +1,3 @@
+/home/p0w3r/coding/pugiXML_Test/CMakeFiles/edit_cache.dir
+/home/p0w3r/coding/pugiXML_Test/CMakeFiles/rebuild_cache.dir
+/home/p0w3r/coding/pugiXML_Test/CMakeFiles/pugiXML_Test.dir

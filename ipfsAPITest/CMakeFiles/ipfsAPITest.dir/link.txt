@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/ipfsAPITest.dir/main.cpp.o  -o ipfsAPITest  -L/usr/local/lib -lipfs-api -lcurl -Wl,-rpath,/usr/local/lib 

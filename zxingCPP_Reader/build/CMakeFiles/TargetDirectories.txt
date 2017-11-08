@@ -1,0 +1,3 @@
+/home/p0w3r/coding/c++/zxingCPP_Reader/build/CMakeFiles/edit_cache.dir
+/home/p0w3r/coding/c++/zxingCPP_Reader/build/CMakeFiles/rebuild_cache.dir
+/home/p0w3r/coding/c++/zxingCPP_Reader/build/CMakeFiles/zxingCpp.dir

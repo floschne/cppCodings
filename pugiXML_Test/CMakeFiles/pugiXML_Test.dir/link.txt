@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/pugiXML_Test.dir/main.cpp.o  -o pugiXML_Test  -L/usr/local/lib -lpugixml -Wl,-rpath,/usr/local/lib 

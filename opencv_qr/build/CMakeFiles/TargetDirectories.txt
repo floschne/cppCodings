@@ -1,0 +1,4 @@
+/home/p0w3r/coding/c++/opencv_qr/build/CMakeFiles/rebuild_cache.dir
+/home/p0w3r/coding/c++/opencv_qr/build/CMakeFiles/edit_cache.dir
+/home/p0w3r/coding/c++/opencv_qr/build/CMakeFiles/qr_video.dir
+/home/p0w3r/coding/c++/opencv_qr/build/CMakeFiles/qr_image.dir
